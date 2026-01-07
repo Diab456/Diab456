@@ -78,6 +78,32 @@ I have a solid background in **Computer Science & Artificial Intelligence**, wit
 
 ---
 
+## 🚀 PageSpeed Insights (Web & Portfolio Projects)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Performance-93-success?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/Accessibility-99-success?style=for-the-badge&logo=accessibility">
+<img src="https://img.shields.io/badge/Best_Practices-100-success?style=for-the-badge&logo=checkmarx">
+<img src="https://img.shields.io/badge/SEO-100-success?style=for-the-badge&logo=google">
+<img src="https://img.shields.io/badge/PWA-Supported-success?style=for-the-badge&logo=pwa">
+</p>
+
+<p align="center">
+Web applications optimized according to <b>Google Lighthouse</b> standards,  
+ensuring high performance, accessibility, SEO, and best practices compliance.
+</p>
+
+### 📊 Lighthouse Metrics Summary
+| Metric | Score |
+|------|------|
+| ⚡ Performance | **93 / 100** |
+| ♿ Accessibility | **99 / 100** |
+| ✅ Best Practices | **100 / 100** |
+| 🔍 SEO | **100 / 100** |
+| 📱 Progressive Web App | **Supported** |
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔐 Security & Cryptography
